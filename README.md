@@ -3,4 +3,4 @@
 - compile `gcc *.c *.h -o bin`
 - run `./bin`
 
-## developed on linux
+## developed on linux OS
